@@ -1,0 +1,34 @@
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.exe
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.deps.json
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.runtimeconfig.json
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.dll
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.pdb
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS_pemrograman.Form1.resources
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS_pemrograman.Properties.Resources.resources
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.csproj.GenerateResource.cache
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.AssemblyInfoInputs.cache
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.AssemblyInfo.cs
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.dll
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\refint\UTS pemrograman.dll
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.pdb
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.genruntimeconfig.cache
+C:\Users\nagid\source\repos\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\ref\UTS pemrograman.dll
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.exe
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.deps.json
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.runtimeconfig.json
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.dll
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\bin\Debug\net8.0-windows\UTS pemrograman.pdb
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS_pemrograman.Form1.resources
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS_pemrograman.Properties.Resources.resources
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.csproj.GenerateResource.cache
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.AssemblyInfoInputs.cache
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.AssemblyInfo.cs
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.csproj.CoreCompileInputs.cache
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.dll
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\refint\UTS pemrograman.dll
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.pdb
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\UTS pemrograman.genruntimeconfig.cache
+C:\Users\ibra\Downloads\UAS_-main\UAS_-main\UTS_TeknikPemrograman_Kelompok5\UTS pemrograman\UTS pemrograman\obj\Debug\net8.0-windows\ref\UTS pemrograman.dll
